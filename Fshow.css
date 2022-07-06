@@ -1,0 +1,44 @@
+.navbg{
+    background-color: #420569;
+    
+}
+.content{
+    width: 1100px;
+}
+.fshow{
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 20px;
+} 
+#mainnames{
+    color: white;
+}
+.landingpage{
+    background-color: #8a54ac;
+    height: 200vh;
+}
+.buttonbg{
+    color:white;
+    background-color:#420569;
+    padding:5px;
+    width: 100px;
+    height: 38px;
+    margin-right: 10px;
+    border-color: rgb(15, 142, 15);
+    border-width: 1px;
+    margin-left: 0px;
+    border-radius: 5px;
+}
+.cardpadding{
+    padding:10px;
+    margin-left: 130px;
+    margin-top:10px;
+}
+.seccard{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.third{
+    margin-left: 5px;
+    margin-top: 10px;
+}
